@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @datamonsterr
-- 👀 I’m interested in AI, Machine Learning and DataScience
-- 🌱 I’m currently learning DataScience, Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me phamdat17092004@gmail.com
+- 👋 Hi, I’m Pham Thanh Dat, you can call me Dat. My username is a wordplay (Dat A Monster, or Data Monster)
+- 👀 I’m interested Computer Science generally, and I'm on the way of finding my way but now I enjoy learning Data Science
+- 📫 You can reach me at phamdat17092004@gmail.com
 
 <!---
 datamonsterr/datamonsterr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
