@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Pham Thanh Dat, you can call me Dat. My username is a wordplay (Dat A Monster, or Data Monster)
-- 👀 I’m interested Computer Science generally, and I'm on the way of finding my way but now I enjoy learning Data Science
+- 👋 Hi, you can call me Dat.
+- 👀 I’m interested Computer Science generally. Now I'm investing my time on web development.
 - 📫 You can reach me at phamdat17092004@gmail.com
 
 <!---
